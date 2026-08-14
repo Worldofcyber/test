@@ -1,0 +1,13 @@
+{
+  "name": "cyberworld-site",
+  "version": "1.0.0",
+  "description": "CyberWorld — self-hosted security-awareness blog with a built-in admin panel (2FA-protected, direct publish, zero dependencies).",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {}
+}
